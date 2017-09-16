@@ -1,3 +1,6 @@
+git
+=========
+
 ```
 $ git config --global user.name "メインアカウント"
 $ git config --global user.email "メインアカウントメールアドレス"
