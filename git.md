@@ -13,5 +13,5 @@ $ git config --local user.email "サブアカウントメールアドレス"
 ```
 
 ```
-123
+1234
 ```
