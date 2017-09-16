@@ -19,8 +19,8 @@ $ git config --local credential.helper cache
 
 ### 900(15分) => 36000(10時間)
 $ vi config
-### add ↓
 
+### add ↓
 [credential]
         helper = cache 30000
 ```
