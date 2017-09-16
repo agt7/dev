@@ -12,7 +12,7 @@ $ git config --local user.name "サブアカウント"
 $ git config --local user.email "サブアカウントメールアドレス"
 ```
 
-認証情報保存(メモリ)
+認証情報キャッシュ(メモリ)
 ```
 ### キャッシュ設定(デフォルト15分)
 git config --local credential.helper cache
