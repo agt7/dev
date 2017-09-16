@@ -22,5 +22,5 @@ $ vi config
 
 ### add ↓
 [credential]
-        helper = cache 30000
+        helper = cache 36000
 ```
